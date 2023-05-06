@@ -6,12 +6,20 @@ h1 {
     text-align: center;
     color: darkslateblue;
 }
+p{
+    text-align: center;
+}
 a {
     font-weight: bolder;
-    display: block;
+    display: inline-block;
     text-align: center;
 }
 img {
     display: block;
     margin: auto;
+}
+footer{
+    text-align: center;
+    display: block;
+
 }
